@@ -1,0 +1,30 @@
+# --- Target / Fichiers de compilation ---
+target/
+*.class
+*.war
+*.ear
+*.jar
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# --- Eclipse ---
+.metadata/
+.classpath
+.project
+.settings/
+
+# --- NetBeans ---
+nbproject/
+build/
+nbbuild/
+nb-configuration.xml
+
+# --- Fichiers système et logs ---
+*.log
+.DS_Store
+Thumbs.db
